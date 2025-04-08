@@ -25,7 +25,7 @@ Nuvem híbrida
 - As organizações controlam a segurança, a conformidade e os requisitos legais.
 - Fornece a maior flexibilidade.
 
-Depesas de capital (CapEx)
+Despesas de capital (CapEx)
 - O gasto inicial de dinheiro em infraestrutura física.
 - As despesas do CapEx têm um valor que se reduz com o tempo.
 
@@ -42,11 +42,11 @@ Modelo baseado em consumo
 Benefícios da nuvem
 - Alta disponibilidade: A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer. Contém garantia de tempo de atividade, dependendo do serviço. Essas garantias fazem parte dos SLAs (Contratos de Nível de Serviço).
 
-- Escalabilidade: Refere-se a capacidade de ajustar recursos para atender à demanda, ou seja, poderá adicionar mais recursos para lidar melhor com o aumento da demanda ou reduzir recursos quando a demanda cair, garantindo que pagará apenas o que usar.
+- Escalabilidade: Refere-se a capacidade de ajustar recursos para atender à demanda, ou seja, poderá adicionar mais recursos para lidar melhor com o aumento da demanda ou reduzir recursos quando a demanda cair, garantindo que pagará apenas pelo que utilizar.
 
 - Elasticidade: Se ocorrer um aumento repentino da demanda, seus recursos poderiam ser expandidos, logo, ao reduzir a demanda, os recursos também poderão ser reduzidos horizontalmente de forma automatizada ou manual.
 
-- Confiabilidade: Devido a sua descentralização, possui infraestrutura confiável e resiliente, permitindo que se tenha recursos implantados em várias regiões do mundo. Logo, se houver uma castástrofe em uma região, as outras ainda funcionarão normalmente.
+- Confiabilidade: Devido a sua descentralização, possui infraestrutura confiável e resiliente, permitindo que se tenha recursos implantados em várias regiões do mundo. Logo, se houver uma catástrofe em uma região, as outras ainda funcionarão normalmente.
 
 - Previsibilidade: Permite que avance com confiança, seja no desempenho ou no custo.
 
