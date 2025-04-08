@@ -1,4 +1,4 @@
-# resumo-do-lab
+# Resumo Técnico – Laboratório de Cloud Computing (Bootcamp DIO + XP)
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 **Computação em nuvem**
