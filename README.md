@@ -62,3 +62,5 @@ Tipos de seviço de nuvem
 - PaaS (plataforma como serviço): Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente. Foco no desenvolvimento de aplicativos e permite o gerenciamento da plataforma por meio da nuvem.
 
 - SaaS (Software como Serviço): Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários. Os usuários para apenas o software que utilizam (modelo de assinatura).
+
+Esse resumo foi produzido como parte do laboratório do bootcamp Cloud com IA (DIO/XP)
