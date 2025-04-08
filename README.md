@@ -9,9 +9,9 @@ Pode envolver a computação, rede e armazenamento.
 # **Tipos de nuvem**
 
 ## Nuvem privada
-* Ambiente criado pelas próprias organizações em seu datacenter sendo totalmente responsáveis pelos serviços que operam e não permitem acesso aos usuários fora da organização.
-* As organizações têm controle total sobre os recursos e a segurança.
-* As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
+- Ambiente criado pelas próprias organizações em seu datacenter sendo totalmente responsáveis pelos serviços que operam e não permitem acesso aos usuários fora da organização.
+- As organizações têm controle total sobre os recursos e a segurança.
+- As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
 
 ## Nuvem pública
 - Pertence a serviços de nuvem ou provedor de hosting, fornece recursos e serviços a várias organizações e usuários, podendo ser acessada por meio de uma conexão segura.
@@ -44,28 +44,28 @@ Pode envolver a computação, rede e armazenamento.
 ---
 
 # Benefícios da nuvem
--Alta disponibilidade: A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer. Contém garantia de tempo de atividade, dependendo do serviço. Essas garantias fazem parte dos SLAs (Contratos de Nível de Serviço).
+- Alta disponibilidade: A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer. Contém garantia de tempo de atividade, dependendo do serviço. Essas garantias fazem parte dos SLAs (Contratos de Nível de Serviço).
 
--Escalabilidade: Refere-se a capacidade de ajustar recursos para atender à demanda, ou seja, poderá adicionar mais recursos para lidar melhor com o aumento da demanda ou reduzir recursos quando a demanda cair, garantindo que pagará apenas pelo que utilizar.
+- Escalabilidade: Refere-se a capacidade de ajustar recursos para atender à demanda, ou seja, poderá adicionar mais recursos para lidar melhor com o aumento da demanda ou reduzir recursos quando a demanda cair, garantindo que pagará apenas pelo que utilizar.
 
--Elasticidade: Se ocorrer um aumento repentino da demanda, seus recursos poderiam ser expandidos, logo, ao reduzir a demanda, os recursos também poderão ser reduzidos horizontalmente de forma automatizada ou manual.
+- Elasticidade: Se ocorrer um aumento repentino da demanda, seus recursos poderiam ser expandidos, logo, ao reduzir a demanda, os recursos também poderão ser reduzidos horizontalmente de forma automatizada ou manual.
 
--Confiabilidade: Devido a sua descentralização, possui infraestrutura confiável e resiliente, permitindo que se tenha recursos implantados em várias regiões do mundo. Logo, se houver uma catástrofe em uma região, as outras ainda funcionarão normalmente.
+- Confiabilidade: Devido a sua descentralização, possui infraestrutura confiável e resiliente, permitindo que se tenha recursos implantados em várias regiões do mundo. Logo, se houver uma catástrofe em uma região, as outras ainda funcionarão normalmente.
 
--Previsibilidade: Permite que avance com confiança, seja no desempenho ou no custo.
+- Previsibilidade: Permite que avance com confiança, seja no desempenho ou no custo.
 
--Segurança: A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes, mas é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
+- Segurança: A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes, mas é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
 
--Governança: A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação.
+- Governança: A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação.
 
--Gerenciabilidade: Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. O gerenciamento na nuvem diz respeito à maneira de gerenciar seu ambiente de nuvem e seus recursos. Por exemplo: escalar automaticamente a implantação de recursos com base na necessidade; implantar recursos com base em modelo pré-configurado; implantar recursos por meio de portal da web, por linha de comando, por APIs ou usando o PowerShell.
+- Gerenciabilidade: Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. O gerenciamento na nuvem diz respeito à maneira de gerenciar seu ambiente de nuvem e seus recursos. Por exemplo: escalar automaticamente a implantação de recursos com base na necessidade; implantar recursos com base em modelo pré-configurado; implantar recursos por meio de portal da web, por linha de comando, por APIs ou usando o PowerShell.
 
 ## Tipos de seviço de nuvem
--Iaas (infraestrutura como serviço): Cria uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem. É o serviço mais flexível onde você configura e gerencia o hardware para seu aplicativo.
+- Iaas (infraestrutura como serviço): Cria uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem. É o serviço mais flexível onde você configura e gerencia o hardware para seu aplicativo.
 
--PaaS (plataforma como serviço): Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente. Foco no desenvolvimento de aplicativos e permite o gerenciamento da plataforma por meio da nuvem.
+- PaaS (plataforma como serviço): Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente. Foco no desenvolvimento de aplicativos e permite o gerenciamento da plataforma por meio da nuvem.
 
--SaaS (Software como Serviço): Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários. Os usuários para apenas o software que utilizam (modelo de assinatura).
+- SaaS (Software como Serviço): Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários. Os usuários para apenas o software que utilizam (modelo de assinatura).
 
 ---
 
