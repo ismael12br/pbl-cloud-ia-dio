@@ -67,6 +67,8 @@ Pode envolver a computação, rede e armazenamento.
 
 - SaaS (Software como Serviço): Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários. Os usuários para apenas o software que utilizam (modelo de assinatura).
 
+---
+
 Este projeto permitiu colocar em prática os conceitos de nuvem e IA aprendidos em curso/bootcamp. Foram utilizados serviços reais de computação em nuvem e aplicações de linguagem natural para simular cenários profissionais.
 
 ---
