@@ -1,45 +1,49 @@
 # Resumo Técnico – Laboratório de Cloud Computing (Bootcamp DIO + XP)
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-**Computação em nuvem**
+# **Computação em nuvem**
 
 A computação em nuvem é o fornecimento de serviços de computação pela Internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala.
 Pode envolver a computação, rede e armazenamento.
 
-**Tipos de nuvem**
+# **Tipos de nuvem**
 
-Nuvem privada
+## Nuvem privada
 - Ambiente criado pelas próprias organizações em seu datacenter sendo totalmente responsáveis pelos serviços que operam e não permitem acesso aos usuários fora da organização.
 - As organizações têm controle total sobre os recursos e a segurança.
 - As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
 
-Nuvem pública
+## Nuvem pública
 - Pertence a serviços de nuvem ou provedor de hosting, fornece recursos e serviços a várias organizações e usuários, podendo ser acessada por meio de uma conexão segura.
 - Nenhuma despesa de capital para escalar verticalmente.
 - Os aplicativos podem ser provisionados e desprovisionados rapidamente.
 - As organizações pagam apenas pelo que utilizam.
 
-Nuvem híbrida
+## Nuvem híbrida
 - Combinação entre nuvem privada e nuvem pública para permitir que aplicativos sejam executados no local mais adequado.
 - As organizações determinam onde executar seus aplicativos.
 - As organizações controlam a segurança, a conformidade e os requisitos legais.
 - Fornece a maior flexibilidade.
 
-Despesas de capital (CapEx)
+---
+
+# Despesas de capital (CapEx)
 - O gasto inicial de dinheiro em infraestrutura física.
 - As despesas do CapEx têm um valor que se reduz com o tempo.
 
-Despesas operacionais (OpEx)
+# Despesas operacionais (OpEx)
 - Gastar com produtos e serviços conforme necessário, pagamento conforme o uso.
 - Seja cobrado imediatamente.
 
-Modelo baseado em consumo
+# Modelo baseado em consumo
 - Os provedores de serviços em nuvem operam em um modelo baseado no consumo, o que significa que os usuários finais pagam somente pelos recursos que usam.
 - Melhor previsão de custos.
 - São fornecidos preços para recursos e serviços individuais.
 - A cobrança é feita com base no seu uso real.
 
-Benefícios da nuvem
+---
+
+# Benefícios da nuvem
 - Alta disponibilidade: A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer. Contém garantia de tempo de atividade, dependendo do serviço. Essas garantias fazem parte dos SLAs (Contratos de Nível de Serviço).
 
 - Escalabilidade: Refere-se a capacidade de ajustar recursos para atender à demanda, ou seja, poderá adicionar mais recursos para lidar melhor com o aumento da demanda ou reduzir recursos quando a demanda cair, garantindo que pagará apenas pelo que utilizar.
@@ -56,7 +60,7 @@ Benefícios da nuvem
 
 - Gerenciabilidade: Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. O gerenciamento na nuvem diz respeito à maneira de gerenciar seu ambiente de nuvem e seus recursos. Por exemplo: escalar automaticamente a implantação de recursos com base na necessidade; implantar recursos com base em modelo pré-configurado; implantar recursos por meio de portal da web, por linha de comando, por APIs ou usando o PowerShell.
 
-Tipos de seviço de nuvem
+## Tipos de seviço de nuvem
 - Iaas (infraestrutura como serviço): Cria uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem. É o serviço mais flexível onde você configura e gerencia o hardware para seu aplicativo.
 
 - PaaS (plataforma como serviço): Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente. Foco no desenvolvimento de aplicativos e permite o gerenciamento da plataforma por meio da nuvem.
