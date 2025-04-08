@@ -67,6 +67,54 @@ Pode envolver a computação, rede e armazenamento.
 
 - SaaS (Software como Serviço): Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários. Os usuários para apenas o software que utilizam (modelo de assinatura).
 
+# Arquitetura e serviços do Azure
+
+## Identidade, acesso e segurança
+- Microsoft Entra ID: serviço de identidade e acesso baseado em nuvem do Microsoft Azure.
+- Permite autenticação.
+- Logo único (SSO).
+- Gerenciamento de aplicativos.
+- B2B do Microsoft Entra External ID (permitindo que usuários autenticados em outros serviços também possam ser autenticados no Entra ID).
+- B2C do Identidades Externas do Azure AD (permite que consumidores do aplicativo tenham acesso ao serviço, mesmo usando autenticação de outro serviço, como Google ou Facebook).
+- Gerenciamento de dispositivos.
+
+## Microsoft Entra Domain Services
+- Permite que se obtenha os benefícios dos serviços de domínio baseados em nuvem sem gerenciar os controladores de domínio.
+- Execute aplicativos herdados (que não podem utilizar os padrões de autenticação modernos) na nuvem.
+- Sincronizar automaticamente a partir do Microsoft Entra ID.
+
+## Autenticação X Autorização
+- Autenticação: Identifica a pessoa ou serviço buscando acesso a um recurso; solicita credenciais de acesso legítimo; base para criar princípios de identidade e controle de acesso seguros.
+
+- Autorização: Determina o nível de acesso de uma pessoa ou serviço autenticado; define quais dados eles podem acessar e o que podem fazer com eles.
+
+- Autenticação multifator: Fornece segurança adicional para as identidades, exigindo dois ou mais elementos para autenticação completa.
+
+## Acesso condicional
+- É utilizado para reunir sinais, tomar decisões e impor políticas organizacionais.
+- Utiliza-se de: associação de usuário ou grupo; local do IP; dispositivo; aplicativo e detecção de risco.
+
+## Controle de acesso baseado em função
+- Gerenciamento de acesso de granularidade fina.
+- Divida as tarefas dentro da equipe e conceda somente a quantidade de acesso de que os usuários precisam para trabalhar.
+- Habilite o acesso ao portal do Azure e o controle de acesso aos recursos.
+- Permissão herdada.
+
+## Confiança zero
+- Permite que o usuário tenha acesso ao mínimo de permissões possíveis.
+
+## Proteção completa
+- Uma abordagem em camadas para proteger sistemas de computador.
+- Fornece vários níveis de proteção.
+- Ataques contra uma camada são isolados das camadas subsequentes.
+
+## Microsoft Defender para Nuvem
+- É um serviço de monitoramento que fornece proteção contra ameaças nos datacenters do Azure e locais.
+- Fornce recomendações de segurança.
+- Detecta e bloqueia malware.
+- Analisa e identifica ataques potenciais.
+- Controle de acesso just-in-time para portas.
+
 ---
 
 Este projeto permitiu colocar em prática os conceitos de nuvem e IA aprendidos em curso/bootcamp. Foram utilizados serviços reais de computação em nuvem e aplicações de linguagem natural para simular cenários profissionais.
