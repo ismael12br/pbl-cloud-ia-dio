@@ -3,14 +3,26 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 ---
 
-## 🗂 Sumário
+## 📚 Sumário
 
-- [Computação em Nuvem](#computação-em-nuvem)
-- [Tipos de Nuvem](#tipos-de-nuvem)
-- [Modelos de Serviço](#modelos-de-serviço)
-- [CapEx e OpEx](#capex-e-opex)
-- [Benefícios da Nuvem](#benefícios-da-nuvem)
-- [Autor](#🚀-autor)
+- [📘 Computação em Nuvem](#computação-em-nuvem)
+- [🌩️ Tipos de Nuvem](#tipos-de-nuvem)
+  - [🔒 Nuvem Privada](#nuvem-privada)
+  - [🌐 Nuvem Pública](#nuvem-pública)
+  - [⚖️ Nuvem Híbrida](#nuvem-híbrida)
+- [💰 Despesas de Capital (CapEx)](#despesas-de-capital-capex)
+- [📊 Despesas Operacionais (OpEx)](#despesas-operacionais-opex)
+- [💡 Modelo Baseado em Consumo](#modelo-baseado-em-consumo)
+- [🏆 Benefícios da Nuvem](#benefícios-da-nuvem)
+  - [📶 Alta Disponibilidade](#alta-disponibilidade)
+  - [📈 Escalabilidade](#escalabilidade)
+  - [🔁 Elasticidade](#elasticidade)
+  - [🔒 Confiabilidade](#confiabilidade)
+  - [📉 Previsibilidade](#previsibilidade)
+  - [🛡️ Segurança](#segurança)
+  - [⚙️ Governança](#governança)
+  - [🧩 Gerenciabilidade](#gerenciabilidade)
+- [🚀 Autor](#🚀-autor)
 
 ---
 
