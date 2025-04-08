@@ -1,12 +1,12 @@
 # Resumo Técnico – Laboratório de Cloud Computing (Bootcamp DIO + XP)
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
-# **Computação em nuvem**
+## **Computação em nuvem**
 
 A computação em nuvem é o fornecimento de serviços de computação pela Internet, habilitando inovações mais rápidas, recursos flexíveis e economias de escala.
 Pode envolver a computação, rede e armazenamento.
 
-# **Tipos de nuvem**
+## **Tipos de nuvem**
 
 ## Nuvem privada
 - Ambiente criado pelas próprias organizações em seu datacenter sendo totalmente responsáveis pelos serviços que operam e não permitem acesso aos usuários fora da organização.
@@ -43,7 +43,7 @@ Pode envolver a computação, rede e armazenamento.
 
 ---
 
-# Benefícios da nuvem
+## Benefícios da nuvem
 - Alta disponibilidade: A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer. Contém garantia de tempo de atividade, dependendo do serviço. Essas garantias fazem parte dos SLAs (Contratos de Nível de Serviço).
 
 - Escalabilidade: Refere-se a capacidade de ajustar recursos para atender à demanda, ou seja, poderá adicionar mais recursos para lidar melhor com o aumento da demanda ou reduzir recursos quando a demanda cair, garantindo que pagará apenas pelo que utilizar.
@@ -56,7 +56,7 @@ Pode envolver a computação, rede e armazenamento.
 
 - Segurança: A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes, mas é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
 
-- Governança: A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação.
+- Governança: A auditoria baseada em nuvem ajuda a sinalizar recursos fora de conformidade e propõe estratégias de mitigação.
 
 - Gerenciabilidade: Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. O gerenciamento na nuvem diz respeito à maneira de gerenciar seu ambiente de nuvem e seus recursos. Por exemplo: escalar automaticamente a implantação de recursos com base na necessidade; implantar recursos com base em modelo pré-configurado; implantar recursos por meio de portal da web, por linha de comando, por APIs ou usando o PowerShell.
 
