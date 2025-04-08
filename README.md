@@ -69,6 +69,6 @@ Este projeto permitiu colocar em prática os conceitos de nuvem e IA aprendidos 
 
 ## 🚀 Autor
 
-- **Ismael Ribeiro**  
+- **Ismael Lopes**  
 - GitHub: [@ismael12br](https://github.com/ismael12br)  
 - LinkedIn: [linkedin.com/in/ismael-lopes](https://www.linkedin.com/in/ismael-lopes)
