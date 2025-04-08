@@ -9,9 +9,9 @@ Pode envolver a computação, rede e armazenamento.
 # **Tipos de nuvem**
 
 ## Nuvem privada
-- Ambiente criado pelas próprias organizações em seu datacenter sendo totalmente responsáveis pelos serviços que operam e não permitem acesso aos usuários fora da organização.
-- As organizações têm controle total sobre os recursos e a segurança.
-- As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
+* Ambiente criado pelas próprias organizações em seu datacenter sendo totalmente responsáveis pelos serviços que operam e não permitem acesso aos usuários fora da organização.
+* As organizações têm controle total sobre os recursos e a segurança.
+* As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
 
 ## Nuvem pública
 - Pertence a serviços de nuvem ou provedor de hosting, fornece recursos e serviços a várias organizações e usuários, podendo ser acessada por meio de uma conexão segura.
