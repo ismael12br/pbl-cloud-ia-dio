@@ -8,7 +8,7 @@
 
 ---
 
-## 💂 Sumário
+## 📚 Sumário
 
 - [📘 Computação em Nuvem](#computação-em-nuvem)
 - [🔐 Responsabilidade Compartilhada](#responsabilidade-compartilhada)
@@ -17,7 +17,7 @@
   - [🌐 Nuvem Pública](#nuvem-pública)
   - [⚖️ Nuvem Híbrida](#nuvem-híbrida)
 - [🔧 Modelos de Serviço](#modelos-de-serviço)
-  - [💻 IaaS](#iaas)
+  - [🖥️ IaaS](#iaas)
   - [🧰 PaaS](#paas)
   - [📦 SaaS](#saas)
 - [💰 CapEx e OpEx](#capex-e-opex)
@@ -30,28 +30,11 @@
   - [📉 Previsibilidade](#previsibilidade)
   - [🛡️ Segurança](#segurança)
   - [⚙️ Governança](#governança)
-  - [🧹 Gerenciabilidade](#gerenciabilidade)
+  - [🧩 Gerenciabilidade](#gerenciabilidade)
 - [📘 Microsoft Azure](#microsoft-azure)
   - [🌐 Visão Geral](#visão-geral)
-  - [🧹 Serviços do Azure](#serviços-do-azure)
-- [🧠 Conclusão](#conclusão)
-- [📌 Próximos Passos](#próximos-passos)
-- [📄 Licença](#📄-licença)
+  - [🧩 Serviços do Azure](#serviços-do-azure)
 - [🚀 Autor](#🚀-autor)
-
----
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
----
-
-## 🚀 Autor
-
-- **Ismael Lopes**  
-- GitHub: [@ismael12br](https://github.com/ismael12br)  
-- LinkedIn: [linkedin.com/in/ismael-lopes](https://linkedin.com/in/ismael-lopes)
 
 ---
 
@@ -183,4 +166,4 @@ Este projeto permitiu colocar em prática os conceitos de nuvem e IA aprendidos 
 
 - **Ismael Lopes**  
 - GitHub: [@ismael12br](https://github.com/ismael12br)  
-- LinkedIn: [linkedin.com/in/ismael-lopes](https://www.linkedin.com/in/ismael-lopes)
+- LinkedIn: [linkedin.com/in/ismael-lopes](https://linkedin.com/in/ismael-lopes)
