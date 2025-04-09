@@ -1,17 +1,26 @@
-# Resumo Técnico – Laboratório de Cloud Computing (Bootcamp DIO + XP)
-Este repositório reúne os principais aprendizados adquiridos durante a realização do laboratório de computação em nuvem no bootcamp “Cloud com IA” da DIO e XP Investimentos. O conteúdo aborda desde fundamentos até benefícios estratégicos da nuvem, incluindo tópicos como modelos de serviço, consumo baseado em uso, CapEx vs OpEx e visão prática da plataforma Microsoft Azure.
+# ☁️ Laboratório do bootcamp XP Inc. - Cloud com Inteligência Artificial
+
+![GitHub repo size](https://img.shields.io/github/repo-size/ismael12br/resumo-do-lab)
+![GitHub last commit](https://img.shields.io/github/last-commit/ismael12br/resumo-do-lab)
+![GitHub license](https://img.shields.io/github/license/ismael12br/resumo-do-lab)
+
+> Este repositório documenta os aprendizados adquiridos no laboratório de computação em nuvem, parte do bootcamp **Cloud com Inteligência Artificial** da DIO em parceria com a XP Investimentos. O conteúdo aborda desde os conceitos fundamentais até a aplicação prática com foco na plataforma Microsoft Azure.
 
 ---
 
-## 📚 Sumário
+## 💂 Sumário
 
 - [📘 Computação em Nuvem](#computação-em-nuvem)
-- [🌩️ Tipos de Nuvem](#tipos-de-nuvem)
+- [🔐 Responsabilidade Compartilhada](#responsabilidade-compartilhada)
+- [🌩️ Modelos de Implantação](#modelos-de-implantação)
   - [🔒 Nuvem Privada](#nuvem-privada)
   - [🌐 Nuvem Pública](#nuvem-pública)
   - [⚖️ Nuvem Híbrida](#nuvem-híbrida)
-- [💰 Despesas de Capital (CapEx)](#despesas-de-capital-capex)
-- [📊 Despesas Operacionais (OpEx)](#despesas-operacionais-opex)
+- [🔧 Modelos de Serviço](#modelos-de-serviço)
+  - [💻 IaaS](#iaas)
+  - [🧰 PaaS](#paas)
+  - [📦 SaaS](#saas)
+- [💰 CapEx e OpEx](#capex-e-opex)
 - [💡 Modelo Baseado em Consumo](#modelo-baseado-em-consumo)
 - [🏆 Benefícios da Nuvem](#benefícios-da-nuvem)
   - [📶 Alta Disponibilidade](#alta-disponibilidade)
@@ -21,8 +30,28 @@ Este repositório reúne os principais aprendizados adquiridos durante a realiza
   - [📉 Previsibilidade](#previsibilidade)
   - [🛡️ Segurança](#segurança)
   - [⚙️ Governança](#governança)
-  - [🧩 Gerenciabilidade](#gerenciabilidade)
+  - [🧹 Gerenciabilidade](#gerenciabilidade)
+- [📘 Microsoft Azure](#microsoft-azure)
+  - [🌐 Visão Geral](#visão-geral)
+  - [🧹 Serviços do Azure](#serviços-do-azure)
+- [🧠 Conclusão](#conclusão)
+- [📌 Próximos Passos](#próximos-passos)
+- [📄 Licença](#📄-licença)
 - [🚀 Autor](#🚀-autor)
+
+---
+
+## 📄 Licença
+
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+
+---
+
+## 🚀 Autor
+
+- **Ismael Lopes**  
+- GitHub: [@ismael12br](https://github.com/ismael12br)  
+- LinkedIn: [linkedin.com/in/ismael-lopes](https://linkedin.com/in/ismael-lopes)
 
 ---
 
