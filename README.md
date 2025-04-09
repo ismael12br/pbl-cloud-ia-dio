@@ -1,5 +1,5 @@
 # Resumo Técnico – Laboratório de Cloud Computing (Bootcamp DIO + XP)
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Este repositório reúne os principais aprendizados adquiridos durante a realização do laboratório de computação em nuvem no bootcamp “Cloud com IA” da DIO e XP Investimentos. O conteúdo aborda desde fundamentos até benefícios estratégicos da nuvem, incluindo tópicos como modelos de serviço, consumo baseado em uso, CapEx vs OpEx e visão prática da plataforma Microsoft Azure.
 
 ---
 
@@ -33,18 +33,18 @@ Pode envolver a computação, rede e armazenamento.
 
 ## **Tipos de nuvem**
 
-## Nuvem privada
+### Nuvem privada
 - Ambiente criado pelas próprias organizações em seu datacenter sendo totalmente responsáveis pelos serviços que operam e não permitem acesso aos usuários fora da organização.
 - As organizações têm controle total sobre os recursos e a segurança.
 - As organizações são responsáveis pela manutenção e pelas atualizações de hardware.
 
-## Nuvem pública
+### Nuvem pública
 - Pertence a serviços de nuvem ou provedor de hosting, fornece recursos e serviços a várias organizações e usuários, podendo ser acessada por meio de uma conexão segura.
 - Nenhuma despesa de capital para escalar verticalmente.
 - Os aplicativos podem ser provisionados e desprovisionados rapidamente.
 - As organizações pagam apenas pelo que utilizam.
 
-## Nuvem híbrida
+### Nuvem híbrida
 - Combinação entre nuvem privada e nuvem pública para permitir que aplicativos sejam executados no local mais adequado.
 - As organizações determinam onde executar seus aplicativos.
 - As organizações controlam a segurança, a conformidade e os requisitos legais.
@@ -92,9 +92,9 @@ Pode envolver a computação, rede e armazenamento.
 
 - **SaaS** (Software como Serviço): Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: por exemplo, Microsoft Office 365, email e calendários. Os usuários para apenas o software que utilizam (modelo de assinatura).
 
-# Arquitetura e serviços do Azure
+## Arquitetura e serviços do Azure
 
-## Identidade, acesso e segurança
+### Identidade, acesso e segurança
 - Microsoft Entra ID: serviço de identidade e acesso baseado em nuvem do Microsoft Azure.
 - Permite autenticação.
 - Logo único (SSO).
@@ -103,37 +103,37 @@ Pode envolver a computação, rede e armazenamento.
 - B2C do Identidades Externas do Azure AD (permite que consumidores do aplicativo tenham acesso ao serviço, mesmo usando autenticação de outro serviço, como Google ou Facebook).
 - Gerenciamento de dispositivos.
 
-## Microsoft Entra Domain Services
+### Microsoft Entra Domain Services
 - Permite que se obtenha os benefícios dos serviços de domínio baseados em nuvem sem gerenciar os controladores de domínio.
 - Execute aplicativos herdados (que não podem utilizar os padrões de autenticação modernos) na nuvem.
 - Sincronizar automaticamente a partir do Microsoft Entra ID.
 
-## Autenticação X Autorização
+### Autenticação X Autorização
 - **Autenticação**: Identifica a pessoa ou serviço buscando acesso a um recurso; solicita credenciais de acesso legítimo; base para criar princípios de identidade e controle de acesso seguros.
 
 - **Autorização**: Determina o nível de acesso de uma pessoa ou serviço autenticado; define quais dados eles podem acessar e o que podem fazer com eles.
 
 - **Autenticação multifator**: Fornece segurança adicional para as identidades, exigindo dois ou mais elementos para autenticação completa.
 
-## Acesso condicional
+### Acesso condicional
 - É utilizado para reunir sinais, tomar decisões e impor políticas organizacionais.
 - Utiliza-se de: associação de usuário ou grupo; local do IP; dispositivo; aplicativo e detecção de risco.
 
-## Controle de acesso baseado em função
+### Controle de acesso baseado em função
 - Gerenciamento de acesso de granularidade fina.
 - Divida as tarefas dentro da equipe e conceda somente a quantidade de acesso de que os usuários precisam para trabalhar.
 - Habilite o acesso ao portal do Azure e o controle de acesso aos recursos.
 - Permissão herdada.
 
-## Confiança zero
+### Confiança zero
 - Permite que o usuário tenha acesso ao mínimo de permissões possíveis.
 
-## Proteção completa
+### Proteção completa
 - Uma abordagem em camadas para proteger sistemas de computador.
 - Fornece vários níveis de proteção.
 - Ataques contra uma camada são isolados das camadas subsequentes.
 
-## Microsoft Defender para Nuvem
+### Microsoft Defender para Nuvem
 - É um serviço de monitoramento que fornece proteção contra ameaças nos datacenters do Azure e locais.
 - Fornce recomendações de segurança.
 - Detecta e bloqueia malware.
